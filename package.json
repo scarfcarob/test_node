@@ -1,0 +1,15 @@
+{
+  "name": "calculadora_node",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Betlienski Carolina",
+  "license": "ISC",
+  "description": "Proyecto_node.js calculadora con ESModules",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
