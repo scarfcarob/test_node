@@ -33,7 +33,7 @@ export function division(a, b) {
     return a / b;
 }
 
-// Exportación por defecto
+
 export default function info() {
     return "Este módulo permite realizar operaciones matemáticas: suma, resta, multiplicación y división.";
 }

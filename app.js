@@ -25,10 +25,10 @@ function calcular(operacion, a, b) {
     }
 }
 
-// Mensaje informativo
+
 console.log(info());
 
-// Pruebas
+
 calcular("suma", 10, 5);
 calcular("resta", 10, 5);
 calcular("multiplicacion", 10, 5);
